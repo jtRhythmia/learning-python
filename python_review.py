@@ -12,5 +12,15 @@ d = False # The variable called [d] is now holding the [Boolean] value [False]
 e = "Hey!" # The variable called [e] is now holding the [string] value ["Hey!"]
 f = None # The variable called [f] is not holding any value
 age = 32 # The variable called [age] is now holding the [integer] value [32]
-name = "Insert your name here" # The variable called [name] is now holding the [string] value ["Insert your name here"]
-instrument = "Insert your instrument here" # The variable called [name] is now holding the [string] value ["Insert your instrument here"]
+name = "Josh" # The variable called [name] is now holding the [string] value ["Josh"]
+instrument = "Drums" # The variable called [name] is now holding the [string] value ["Drums"]
+
+'''
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _)
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords.
+
+'''
+
